@@ -1,0 +1,9 @@
+*.zip
+*.rar
+*.class
+*.ctxt
+*.doc
+*.docx
+drivers/
+lib/
+images/

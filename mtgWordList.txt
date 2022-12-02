@@ -1,0 +1,226 @@
+Attributes	addsOns	hasKeywords	relAbility	relArt	relArtifacts	relAttack	relAuras	relBattlefield	relBlock	relCardOutsideGame	relCast	relCastCost	relChargeCounter	relChoice	relCoinFlip	relColor	relCombat	relCommander	relControl	relCopy	relCounterSpell	relCounters	relCreatures	relDamage	relDeath	relDestroys	relDiscards	relDouble	relDragons	relDraw	relDungeons	relEnchantments	relEOT	relEquip	relExcludes	relExile	relFlying	relGraveyard	relHand	relInstants	relLand	relLearn	relLibrary	relLife	relMana	relMill	relMonarch	relOpponent	relP&T	relPermanents	relPlaneswalkers	relPlayers	relRegeneration	relRemove	relReveal	relRollDice	relSacrifice	relScry	relSearch	relSorcery	relSubtype	relTap	relTarget	relTokens	relTotalSpells	relTrigger	relTurnOrder	relTwoSided	relUntap	relWinCondition	relX
+Name	addsAbilityHaste	hasAbsorb	addsAbility	hasSignature	affectsAllArtifacts	addsAttackCost	attachAurasForFree	affectsUntilLeavesBattlefield	chooseHowBlock	getCardFromOutsideGame	canCastCreatureFromExile	addsCastCost	forEachChargeCounter	affectsChosenCreatures	flipsCoin	addsProtectionFromColor	affectsDuringCombat	canBeCommander	dependsIfEnteredControl	copyAbility	countersSpell	addsCounters	addsCreaturesFromExile	canCastWhenDamaged	dependsOnTotalCreaturesThatDied	destroysAllArtifacts	dependsOnDiscard	doublesCounters	createsDragon	dependsIfFirstCardDrawn	dependsOnDungeonCompleted	affectsAllEnchantments	creaturesLastEOT	attachEquipmentForFree	excludesArtifacts	canCastCreatureFromExile	createsFlyingCreature	addsCardsToGraveyard	addsNoMaxHandSize	copyInstant	chooseNonland	learnLesson	addsCreaturesFromLibrary	addsLife	addsAdditionalMana	millCard	dependsOnMonarchCondition	affectsAllOpponentCreatures	addsP	affectsAllPermanents	addsLoyalty	addsHexproofToPlayer	disallowsRegeneration	removeCreatureFromGame	doNotReveal	rollAgain	dependsOnSacrifice	hasScry	searchLibrary	activateAsSorcery	addsSubtype	causesCreatureTap	addsTargetSelect	affectsYourTokens	dependsOnTotalSpellsCast	activateDuringEndCombat	activateDuringEndCombat	castTransformed	affectsDuringUntap	hasWinCondition	addsXLife
+Card Type	addsAffinity	hasAddendum	addsAbilityHaste	isAlt	affectsAllYourArtifacts	affectsAttackingCreatures	dependsOnTotalAuras	dependsOnTotalCreatures	chooseWhichBlock	putsCardFromOutsideGameIntoHand	canCastFaceDown	attachAurasForFree	hasChargeCounter	chooseArtifact		canSpendManaOfAnyColor	affectsDuringPrecombat	canCastCommanderForFree	placeUnderYourControl	copyArtifact	countersSpellUnlessManaPaid	addsMinusCounters	addsCreaturesFromLibrary	dealsDamageDependsOnHandSize	effectUponArtifactDeath	destroysAllCreatures	discardsCards	doublesDraw	dependsUponDragonPresent	doublesDraw	preventsVentureIntoDungeon	affectsAllYourEnchantments	effectLastEOT	autoEquips	excludesCardsWithSpecialCounters	canCastFromExile	createsFlyingCreatureForPlayer	addsCreaturesToGraveyard	affectsHandSize	dependsOnInstant	copyLand	putsLessonIntoHand	affectsDuringOpponentSearchLibrary	addsXLife	addsColorlessMana	opponentMillsCard	hasMonarchCondition	affectsAllOpponentNoncreatures	addsT	affectsOpponentsPermanents	choosePlaneswalker	affectsAllPlayers	regeneratesCreature	removeFromGame	effectUponReveal	rollsD20	effectUponSacrifice	hasScryMultiple	searchLibraryForAnyLand	copySorcery	affectsHistoricSpells	chooseIfUntap	affectsMultipleTargets	createsBloodTokens		activateDuringUpkeep	affectsDuringCast	containsSorcery	preventsUntap	preventsWinOrLoss	dealsXDamage
+Subtype	addsDeathTouch	hasAffinity	addsManaAbility	isBorderless	becomesArtifact	affectsYourAttackingCreatures	placesAuraOnBattlefieldFromHand	effectUponCreatureEnter	effectUponBlockingCreatureDeath	removeFromGame	canCastFromExile	attachEquipmentForFree		chooseColor		dependsOnColorCast		dependsIfCommanderPresent	takeControl	copyCreature	immuneToCounterSpell	addsSpecialCounter	affectsAllCreatures	dealsDamageOnDeathCondition	effectUponAttackingCreatureDeath	destroysAllEnchantments	discardThis	doublesEffect	forEachDragon	drawAdditionalCard	ventureIntoDungeon	autoEnchants		dependsIfEquipment	excludesChoice	effectUponExileFromHand	dependsIfFlying	affectsCreaturesInGraveyard	dealsDamageDependsOnHandSize	dependsOnTotalInstantCast	dependsIfLand		discardCardsFromLibraryToGraveyard	dependsOnLifeGained	addsMana			affectsAllOpponents	addsP&T	affectsYourPermanents	dealsDamageToAllOpponentPlaneswalkers	choosePlayer	regeneratesThis	removesAbilities	requiresReveal	rollsD4	isSacrificed		searchLibraryForAura	dependsOnSorcery	affectsSnowSpells	dependsOnTapped	chooseNewTarget	createsFood		activateOnceOnly	affectsDuringCombat	containsTwoSpells	untapsArtifacts		drawXCards
+Mana Cost	addsDefender	hasAffinityForArtifacts	canCastWithFlash	isDungeonsAndDragons	chooseArtifact	attacksEachCombat	searchLibraryForAura	effectUponCreatureOfTypeEnter	isUnblockable		canCastFromGraveyard	canCastCommanderForFree		chooseCreature		dependsOnColorDevotion		dependsOnManaUsedForCommander		copyInstant	dependsOnSpellCountered	affectsAllCreaturesWithCounters	affectsAllCreaturesWithCounters	dealsDamageToAllOpponentCreatures	effectUponBlockingCreatureDeath	destroysAllNonartifactCreatures	effectUponDiscard	doublesLife	revealDragon	drawCard		chooseEnchantment		dependsIfEquipped	excludesCommanders	effectUponExilePermanent	isFlying	canCastFromGraveyard	dependsOnCastFromHand	effectUponOpponentCopyInstant	dependsOnOpponentLand		exilesCardsFromLibrary	dependsOnLifeLost	addsManaAbility			affectsDuringOpponentsEndStep	addsP&TToType	choosePermanent	dealsDamageToPlaneswalker	createsFlyingCreatureForPlayer		removesAllSubtypes	revealCard	rollsD6	opponentSacrificesCreature		searchLibraryForBasicLand	dependsOnTotalSorceriesCast	affectsSubtype	destroysTappedCreatures	dealsDamageToOpponentsTarget	createsNonLegendaryToken		beginWithYourTurn	affectsDuringDraw	effectUponTransformation	untapsCreature		hasPowerX
+Rarity	addsDoubleStrike	hasAfflict	canOnlyBeActivatedByOpponent	isFoil	controlsArtifacts	attacksOpponentsBeforeYou	targetsAura	effectUponCreatureLeave	isUnblockableDepends		canCastLater	canCastLater		chooseEnchantment		dependsOnColorPresent		dependsOnTimesCommanderHasBeenCast		copyLand		affectsAllYourCreaturesWithCounters	affectsAllNoncreatures	dealsDamageToAllOpponentPlaneswalkers	effectUponCreatureDeath	destroysAllNontokenCreatures	effectUponOpponentDiscard	doublesLifeGained		drawXCards		dependsIfEnchanted		dependsOnEquipEnter	excludesEnchantedCreatures	exilesAllPermanents		chooseRandomCardFromGraveyard	dependsOnHandSize		dependsOnTotalLands		exilesTopCardOfOpponentLibrary	dependsOnLifeTotal	addsManaCost			affectsDuringOpponentSearchLibrary	dependsOnPower	effectUponExilePermanent	dependsOnLoyalty	createsTokensForPlayer		removesCardTypes	revealChoice	rollsD8	sacrificesAllCreatures		searchLibraryForCard	effectUponOpponentCopySorcery	chooseSubtype	effectUponTapped	dependsOnBeingTargeted	createsTokenCopy		dependsIfHaveKeywordAbility	affectsDuringEndStep	hasDaybound			hasToughnessX
+Card Number	addsFading	hasAfterlife	dependsIfCreatureWithAbilityInGraveyard	isFullArt	createsArtifacts	cannotAttackAlone		effectUponEnchantmentEnter	preventsBeingBlocked		canCastWhenDamaged	castAsSorcery		chooseHowBlock		dependsOnCommanderColors		effectUponCommanderPresent		copySorcery		affectsCreatureWithCounter	affectsAllOpponentsCreatures	dealsDamageToAllOpponents	effectUponCreatureDeathFromThis	destroysAllOpponentsCreatures		doublesMana		drawCardForCost		dependsOnTotalEnchantments		dependsOnTotalEquips	excludesFirstCardDrawn	exilesArtifact		dependsIfCreatureWithAbilityInGraveyard	dependsOnOpponentsHandSize		dependsOnTotalLandsOfType		placeCardOnTopOfLibrary	dependsOnOpponentLifeTotal	canSpendManaOfAnyColor			affectsDuringOpponentsTurn	dependsOnToughness	effectUponPermanentLeave	destroysAllPlaneswalkers	effectUponPlayerDamagedByThis		removesCounters	revealDragon	rollsDice	sacrificesAllNonlandPermanents		searchLibraryForEnchantment		createsNonLegendaryToken	effectUponUntapped	targetsAllPlayers	createsTokens		duringFirstNonCreatureSpellOfTurn	affectsDuringNextEndStep	hasNightbound			hasXAbility
+Set Name	addsFear	hasAftermath	dependsIfHaveKeywordAbility	isModule	dependsOnArtifactChosen	dealsDamageToAttackingCreature		effectUponEnchantmentLeave	preventsBlock		canCastWithFlash	castWithoutPayingCastCost		chooseIfUntap		dependsOnCreatureColor		putsCommanderIntoHand		copyThis		dependsOnCounters	affectsAllOpponentsNoncreatures	dealsDamageToAttackingCreature	effectUponNontokenCreatureDeath	destroysAllOpponentsPlaneswalkers		doublesTokens		effectUponDrawCard		destroysAllEnchantments		hasEquip	excludesGiants	exilesAttackingCreature		dependsInGraveyard	effectUponExileFromHand		dependsOnTotalOpponentLands		placeCardOnTopOfLibraryFromGraveyard	doublesLife	countersSpellUnlessManaPaid			affectsDuringOpponentsUntap	forEachDifferentPower	enchantsNonlandPermanent	exilesPlaneswalker	enchantsPlayer		removesHexproof	revealHand		sacrificesArtifact		searchLibraryForType		dependsOnCardTypesInOpponentsGraveyard	entersTapped	targetsAny	createsTokensForPlayer		duringFirstSpellOfTurn	affectsDuringNextUpkeep	isTwoSided			hasXCost
+Artist	addsFirstStrike	hasAmplify	effectUponAbilityActivated	isOld	dependsOnTotalArtifacts	dependsIfAttackedThisTurn		effectUponLandEnter	preventsCreatureBlock		dependsOnCastFromHand	chanceForLessenedAbilityCost		chooseNewTarget		dependsOnMulticolor		targetsCommander		createsTokenCopy		dependsOnOpponentAddsCounters	affectsAllYourCreatures	dealsDamageToCreature	effectUponOpponentCreatureDeath	destroysAllPlaneswalkers				opponentDrawCard		destroysEnchantment		reducesEquipCost	excludesLand	exilesCards		dependsOnCardTypesInOpponentsGraveyard	exilesCardsFromHand		destroysLand		placeCardsOnBottomOfLibrary	doublesLifeGained	dependsOnManaUsedForCommander			affectsOpponentsPermanents	hasPowerX	enchantsPermanent	hasEmblem	forEachPlayer		removesIndustructible	revealHistoric		sacrificesBloodToken		searchLibraryForXLand		dependsOnSubtype	entersTappedDepends	targetsArtifact	createsTreasures		duringSecondSpellOfTurn	affectsDuringOpponentsDraw	transformsOnCondition			opponentPaysXLife
+Date	addsFlying	hasAnnihilator	hasManaAbility	isPoorCondition	dependsOnTotalArtifactsInGraveyard	dependsOnTotalNumberAttacking		effectUponPermanentLeave			dependsOnColorCast	chanceForLessenedCastCost		chooseNonland		exilesCardsOfColor				effectUponOpponentCopyInstant		dependsOnSpecialCounters	affectsAllYourCreaturesOfColor	dealsDamageToOpponent	effectUponPlaneswalkerDeath	destroysArtifact						enchantsCreature		targetsEquipment	excludesManaAbilities	exilesCardsAfterCombat		dependsOnTotalArtifactsInGraveyard	mustBeInHand		doublesManaFromLand		placeCreaturesOnBottomOfLibrary	effectUponLifeGained	dependsOnManaSpent			attacksOpponentsBeforeYou	hasToughnessX	exilesPermanent	isPlaneswalker	targetsAllPlayers		removesSpecialCounters			sacrificesCreature		searchLibraryWithRestrictions		dependsOnSubtypePresent	entersTappedDependsOnReveal	targetsAttackingCreature	dependsOnTokenDeath		duringThisTurn	affectsDuringOpponentsEndStep				repeatXTimes
+Power	addsGoaded	hasAscend	hasRepeatAbilities	isShowcase	dependsOnYourArtifacts	effectUponAttack		effectUponTokenLeave			dependsOnTotalInstantsCast	hasAdditionalCost		chooseNumber		forEachColorCast				effectUponOpponentCopySorcery		doublesCounters	affectsAllYourCreaturesOfType	dealsDamageToOpponentOrPlaneswalker	effectUponThisDeath	destroysChoice						enchantsNonlandPermanent			excludesOneOfEachType	exilesCardsEnteringGraveyard		dependsOnTotalCardsInGraveyard	opponentExilesCardFromHand		effectUponLandEnter		putsCardFromLibraryIntoGraveyard	opponentPaysLife	dependsOnManaValue			canOnlyBeActivatedByOpponent	setsP&T	placesPermanentOnBattlefield	remainsPlaneswalker	targetsPlayer					sacrificesEnchantment				dependsOnTotalCreaturesInParty	forEachCreatureTapped	targetsAura	dependsOnTokenEntered		duringYourTurn	affectsDuringOpponentsTurn				searchLibraryForXLand
+Toughness	addsHaste	hasAssist	hasSnowAbility	isTwoSided	destroysAllArtifacts	effectUponAttackAlone		placesAuraOnBattlefieldFromHand			dependsOnTotalSorceriesCast	hasOptionalCost		chooseOpponent		reducesCastCostForColor				opponentCanCopy		effectUponCountersAdded	affectsAllYourCreaturesWithCounters	dealsDamageToPlaneswalker	effectUponTokenCreatureDeath	destroysCreature						enchantsPermanent			excludesPlayer	exilesCardsFromGraveyard		dependsOnTotalCreaturesInGraveyard	placesAuraOnBattlefieldFromHand		effectUponLandTappedOfType		putsCardFromLibraryIntoHand	opponentPaysXLife	doublesMana			chooseOpponent	subtractsP	sacrificesAllNonlandPermanents	targetsOpponentPlaneswalker						sacrificesFood				dependsOnTotalCreaturesOfSubtype	hasTapAbility	targetsBloodToken	dependsOnTotalBloodTokens		limitOncePerTurn	affectsDuringOpponentsUntap				seeTopXCardsOfLibrary
+Subtext Chars	addsHexproof	hasAstralProjection	hasTapAbility		destroysAllNonartifactCreatures	effectUponAttackingCreatureDeath		placesCardOnBattlefield			effectUponArtifactCast	hasXCost		choosePermanent								excludesCardsWithSpecialCounters	affectsAttackingCreatures	dealsDamageToTarget	effectUponYourCreatureDeath	destroysEnchantment						enchantsPlayer			excludesSubtype	exilesCardsFromHand		effectUponGraveyardEnter	putsCardFromLibraryIntoHand		landsEnterTappedOfType		returnToLibrary	paysHalfOfLife	hasManaAbility			dealsDamageToAllOpponentCreatures	subtractsT	sacrificesNonlandPermanent	targetsPlaneswalker						sacrificesLand				excludesSubtype	hasUntapAbility	targetsCardInGraveyard	doublesTokens		oncePerTurn	affectsDuringPrecombat				seeTopXCardsOfOpponentLibrary
+Equip Cost	addsHexproofToPlayer	hasAuraSwap	hasXAbility		destroysArtifact	effectUponOpponentAttack		placesCreatureOnBattlefield			effectUponAuraCast	moreCostForRepeatEffect		choosePlaneswalker								halvesCounters	affectsChosenCreatures	dealsDamageToYou		destroysFlying						excludesEnchantedCreatures			excludesThis	exilesCardsFromLibrary		effectUponGraveyardLeave	putsCardFromOutsideGameIntoHand		opponentPlayAdditionalLand		searchLibrary	paysLife	hasSnowAbility			dealsDamageToAllOpponentPlaneswalkers	subtractsP&T	sacrificesPermanent							sacrificesLandType				forEachCreatureInParty	preventsUntap	targetsCommander	effectUponBloodTokenEnter		triggersSeparately	affectsDuringUntap				targetsXCreatures
+Loyalty	addsHorsemanship	hasAwaken	keepsAbility		effectUponArtifactCast	entersAttacking		placesPermanentOnBattlefield			effectUponEquipmentCast	reducesCastCost		choosePlayer								moveCounters	affectsCreaturesEntered	dealsXDamage		destroysLand						exilesEnchantment			excludesTokenCreatures	exilesCardsOfColor		exilesCardsEnteringGraveyard	putsCommanderIntoHand		placesLandOnBattlefield		searchLibraryForAnyLand		manaCostReduced			dealsDamageToAllOpponents		targetsPermanent							sacrificesNonlandPermanent				isChangeling	tapsThis	targetsCreature	effectUponTokenCreatureDeath		untilNextTurn	affectsDuringUpkeep				
+Quantity	addsIndustructible	hasBanding	preventsAbilityActivation		effectUponArtifactDeath	exilesAttackingCreature		placesLandOnBattlefield			effectUponNoncreatureSpellCast	reducesCastCostForColor		chooseSubtype								removesCounters	affectsCreaturesInGraveyard	dependsOnDamagePrevented		destroysNonBasicLand						forEachEnchantment			excludesYou	exilesCardsOfType		exilesCardsFromGraveyard	putsLessonIntoHand		playAdditionalLand		searchLibraryForAura		manaNotForSpells			dealsDamageToOpponent									sacrificesPermanent				isLegendary	untapsArtifacts	targetsCreatureFromGraveyard	effectUponTokenLeave			affectsDuringYourTurn				
+	addsInfect	hasBattleCry	removesAbilities		excludesArtifacts	forcesAttack		returnToBattlefield			effectUponOpponentSpellCast	reducesCastCostForType		chooseType								removesSpecialCounters	affectsCreatureWithCounter	dependsOnTotalDamageDealt		destroysNonlandPermanent						targetsEnchantment			excludesYours	exilesCardUntilLeavesBattlefield		exilesCreatureFromGraveyard	returnsLandToHand		remainsAsLandSubtype		searchLibraryForBasicLand		manaOnlyForCreatures			dealsDamageToOpponentOrPlaneswalker									sacrificesSelf				removesAllSubtypes	untapsCreatures	targetsCreatureOfType	excludesTokenCreatures			dependsIfMainPhase				
+	addsIntimidate	hasBestow	removesBrackets		forEachArtifact	preventsAttack		returnToBattlefieldFromGraveyard			effectUponSpellCast			chooseWhichBlock									affectsNonlegendaryCreatures	dependsOnTotalExcessDamage		destroysNonlegendaryCreature										exilesCreature		exilesThisFromGraveyard	returnToHand		returnsLandToHand		searchLibraryForEnchantment		retainsMana			dealsDamageToOpponentsTarget									sacrificesToken				targetsCreatureOfType	untapsThis	targetsEnchantment	forEachToken			dependsIfYourTurn				
+	addsLandType	hasBloodthirst			hasDevourArtifact	preventsCreatureAttack		returnToBattlefieldFromGraveyardOfType			effectUponVehicleCast			dependsIfChosen									affectsYourAttackingCreatures	effectUponCreatureDamaged		destroysPermanents										exilesCreatureFromGraveyard		forEachCreatureInGraveyard	returnToHandFromGraveyard		searchLibraryForAnyLand		searchLibraryForType					dependsOnCardTypesInOpponentsGraveyard									sacrificesTreasure				targetsLegendaryCreature		targetsEquipment								
+	addsLandwalk	hasBoast			hasProtectionFromArtifacts	preventsOpponentAttack		returnToBattlefieldFromOpponentGraveyard			forEachColorCast			dependsOnArtifactChosen									becomesCreature	effectUponCreatureDamagesPlayer		destroysTappedCreatures										exilesEnchantment		mustBeInGraveyard			searchLibraryForBasicLand		searchLibraryForXLand					dependsOnOpponentAddsCounters															targetsLand								
+	addsLifelink	hasBolster			targetsArtifact	preventsOpponentAttackFromType					preventsCast			excludesChoice									canCastCreatureFromExile	effectUponPlayerDamage		destroysThis										exilesFaceDown		opponentExilesAllCardsInGraveyard			targetsLand		searchLibraryWithRestrictions					dependsOnOpponentLand															targetsNonbasicLand								
+	addsMenace	hasBushido			untapsArtifacts	requiresMultipleAttackers								hasChoice									causesCreatureTap	effectUponPlayerDamagedByThis		forEachDestroyed										exilesNontokenCreature		placeCardOnTopOfLibraryFromGraveyard			targetsNonbasicLand		seeTopCardOfLibrary					dependsOnOpponentLifeTotal															targetsNonlandPermanent								
+	addsNoMaxHandSize	hasBuyback				targetsAttackingCreature								opponentHasChoice									chooseCreature	effectUponPreventedDamage												exilesOpponentCreature		putsCardFromLibraryIntoGraveyard					seeTopXCardsOfLibrary					dependsOnOpponentsHandSize															targetsNonlegendaryCreature								
+	addsPhasing	hasCascade																					createsFlyingCreature	opponentDamageNotReduced												exilesPermanent		returnToBattlefieldFromGraveyard					seeTopXCardsOfOpponentLibrary					dependsOnTotalOpponentCreatures															targetsOpponent								
+	addsProtection	hasChampion																					createsFlyingCreatureForPlayer	preventsDamage												exilesPlaneswalker		returnToBattlefieldFromOpponentGraveyard					shuffleGraveyardIntoLibrary					dependsOnTotalOpponentLands															targetsOpponentCreature								
+	addsProtectionFromColor	hasChangeling																					dealsDamageToAllOpponentCreatures	reflectsDamage												exilesThis		returnToGraveyardFromExile					shuffleIntoLibrary					dependsOnTotalOpponents															targetsOpponentPlaneswalker								
+	addsProtectionFromPlayer	hasCipher																					dealsDamageToCreature													exilesThisFromGraveyard		returnToHandFromGraveyard					shuffleLibrary					effectUponOpponentAttack															targetsPermanent								
+	addsProtectionFromType	hasCleave																					dealsDamageToAttackingCreature													exilesTopCardOfOpponentLibrary		shuffleGraveyardIntoLibrary										effectUponOpponentCopyInstant															targetsPlaneswalker								
+	addsReach	hasColdBreath																					dependsIfCreature													exilesYourCreature		targetsCardsInGraveyard										effectUponOpponentCopySorcery															targetsPlayer								
+	addsRenown	hasCompanion																					dependsIfCreatureWithAbilityInGraveyard													forEachCardExiled		targetsCreatureFromGraveyard										effectUponOpponentCreatureDeath															targetsXCreatures								
+	addsShroud	hasConspire																					dependsOnNonCreatureSpell													forEachCreatureExiled		targetsCreatureFromYourGraveyard										effectUponOpponentDiscard															targetsYou								
+	addsSkulk	hasConvoke																					dependsOnTotalCreatures													opponentExilesAllCardsInGraveyard												effectUponOpponentSpellCast																							
+	addsTrample	hasCoven																					dependsOnTotalCreaturesInGraveyard													opponentExilesCardFromHand												exilesOpponentCreature																							
+	addsUnearth	hasCrew																					dependsOnTotalCreaturesInParty													returnToGraveyardFromExile												exilesTopCardOfOpponentLibrary																							
+	addsUnblockable	hasCycling																					dependsOnTotalCreaturesOfSubtype																									forEachOpponent																							
+	addsVigilance	hasDash																					dependsOnTotalCreaturesThatDied																									forEachOpponentCreature																							
+	addsWard	hasDaybound																					dependsOnTotalOpponentCreatures																									opponentCanCopy																							
+	addsWardToType	hasDeathtouch																					destroysAllCreatures																									opponentDamageNotReduced																							
+		hasDecayed																					destroysAllNontokenCreatures																									opponentDrawCard																							
+		hasDefender																					destroysCreature																									opponentExilesAllCardsInGraveyard																							
+		hasDelve																					destroysNonlegendaryCreature																									opponentExilesCardFromHand																							
+		hasDemonstrate																					destroysTappedCreatures																									opponentHasChoice																							
+		hasDethrone																					effectUponAttackingCreatureDeath																									opponentPaysLife																							
+		hasDevoid																					effectUponBlockingCreatureDeath																									opponentPlayAdditionalLand																							
+		hasDevour																					effectUponCreatureDeath																									opponentSacrificesCreature																							
+		hasDevourArtifact																					effectUponCreatureDeathFromThis																									preventsOpponentAttack																							
+		hasDissolve																					effectUponCreatureEnter																									preventsOpponentAttackFromType																							
+		hasDisturb																					effectUponCreatureLeave																									returnToBattlefieldFromOpponentGraveyard																							
+		hasDivineIntervention																					effectUponCreatureOfTypeEnter																									seeTopXCardsOfOpponentLibrary																							
+		hasDoubleStrike																					effectUponNoncreatureSpellCast																									targetsOpponent																							
+		hasDredge																					effectUponNontokenCreatureDeath																									targetsOpponentCreature																							
+		hasEcho																					effectUponOpponentCreatureDeath																									targetsOpponentPlaneswalker																							
+		hasEmbalm																					effectUponTokenCreatureDeath																																																
+		hasEmerge																					effectUponYourCreatureDeath																																																
+		hasEncore																					enchantsCreature																																																
+		hasEngulf																					excludesEnchantedCreatures																																																
+		hasEntwine																					excludesTokenCreatures																																																
+		hasEpic																					exilesAttackingCreature																																																
+		hasEquip																					exilesCreature																																																
+		hasEscalate																					exilesNontokenCreature																																																
+		hasEscape																					exilesOpponentCreature																																																
+		hasEternalize																					exilesYourCreature																																																
+		hasEvoke																					forEachCreature																																																
+		hasEvolve																					forEachCreatureEntered																																																
+		hasExalted																					forEachCreatureExiled																																																
+		hasExploit																					forEachCreatureInGraveyard																																																
+		hasExplores																					forEachCreatureInParty																																																
+		hasExtort																					forEachCreatureTapped																																																
+		hasFabricate																					forEachOpponentCreature																																																
+		hasFading																					hasCreature																																																
+		hasFear																					opponentSacrificesCreature																																																
+		hasFerocious																					placeCreaturesOnBottomOfLibrary																																																
+		hasFirstStrike																					placesCreatureOnBattlefield																																																
+		hasFlanking																					preventsCreatureAttack																																																
+		hasFlash																					preventsCreatureBlock																																																
+		hasFlashConditional																					regeneratesCreature																																																
+		hasFlashback																					removeCreatureFromGame																																																
+		hasForecast																					sacrificesAllCreatures																																																
+		hasForetell																					sacrificesCreature																																																
+		hasFortify																					targetsAttackingCreature																																																
+		hasFrenzy																					targetsBlockingCreature																																																
+		hasFuse																					targetsCreature																																																
+		hasGraft																					targetsCreatureFromGraveyard																																																
+		hasGravestorm																					targetsCreatureFromYourGraveyard																																																
+		hasHaste																					targetsCreatureOfType																																																
+		hasHaunt																					targetsCreatures																																																
+		hasHellbent																					targetsLegendaryCreature																																																
+		hasHexproof																					targetsNonlegendaryCreature																																																
+		hasHexproofFromWhite																					targetsOpponentCreature																																																
+		hasHiddenAgenda																					targetsXCreatures																																																
+		hasHideaway																					untapsCreatures																																																
+		hasHorsemanship																																																																					
+		hasImprint																																																																					
+		hasImprovise																																																																					
+		hasIndestructible																																																																					
+		hasInfect																																																																					
+		hasIntimidate																																																																					
+		hasJumpStart																																																																					
+		hasKicker																																																																					
+		hasLandfall																																																																					
+		hasLandwalk																																																																					
+		hasLearn																																																																					
+		hasLevelUp																																																																					
+		hasLieutenant																																																																					
+		hasLifeDrain																																																																					
+		hasLifelink																																																																					
+		hasLivingWeapon																																																																					
+		hasMadness																																																																					
+		hasManaAbility																																																																					
+		hasMelee																																																																					
+		hasMenace																																																																					
+		hasMentor																																																																					
+		hasMetalcraft																																																																					
+		hasMill																																																																					
+		hasMiracle																																																																					
+		hasModular																																																																					
+		hasMonarchCondition																																																																					
+		hasMonstrosity																																																																					
+		hasMorph																																																																					
+		hasMultikicker																																																																					
+		hasMutate																																																																					
+		hasMyriad																																																																					
+		hasNegativeEnergyCone																																																																					
+		hasNightbound																																																																					
+		hasNinjutsu																																																																					
+		hasOffering																																																																					
+		hasOutlast																																																																					
+		hasOverload																																																																					
+		hasPartner																																																																					
+		hasPersist																																																																					
+		hasPhasing																																																																					
+		hasPlainscycling																																																																					
+		hasPoisonous																																																																					
+		hasProliferate																																																																					
+		hasProtection																																																																					
+		hasProtectionFromArtifacts																																																																					
+		hasProtectionFromBlack																																																																					
+		hasProtectionFromBlue																																																																					
+		hasProtectionFromGreen																																																																					
+		hasProtectionFromRed																																																																					
+		hasProtectionFromWhite																																																																					
+		hasProvoke																																																																					
+		hasProwess																																																																					
+		hasProwl																																																																					
+		hasRampage																																																																					
+		hasReach																																																																					
+		hasRebound																																																																					
+		hasRecover																																																																					
+		hasReinforce																																																																					
+		hasRenown																																																																					
+		hasReplicate																																																																					
+		hasRetrace																																																																					
+		hasRevolt																																																																					
+		hasRiot																																																																					
+		hasRipple																																																																					
+		hasScavenge																																																																					
+		hasScry																																																																					
+		hasShadow																																																																					
+		hasShroud																																																																					
+		hasSkulk																																																																					
+		hasSoulbond																																																																					
+		hasSoulshift																																																																					
+		hasSpectacle																																																																					
+		hasSplice																																																																					
+		hasSplit																																																																					
+		hasSplitSecond																																																																					
+		hasStorm																																																																					
+		hasStrive																																																																					
+		hasSunburst																																																																					
+		hasSupport																																																																					
+		hasSurge																																																																					
+		hasSuspend																																																																					
+		hasSwampwalk																																																																					
+		hasTapAbility																																																																					
+		hasTeleport																																																																					
+		hasTotemArmor																																																																					
+		hasTraining																																																																					
+		hasTrample																																																																					
+		hasTransfigure																																																																					
+		hasTransmute																																																																					
+		hasTribute																																																																					
+		hasUndaunted																																																																					
+		hasUndying																																																																					
+		hasUnearth																																																																					
+		hasUnleash																																																																					
+		hasVanishing																																																																					
+		hasVigilance																																																																					
+		hasWard																																																																					
+		hasWinCondition																																																																					
+		hasWither																																																																					
+		hasXAbility																																																																					
+		hasXCost																																																																					
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
+																																																																							
