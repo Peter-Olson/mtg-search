@@ -90,7 +90,7 @@ public class MTGQuery {
       //get leftover String values for base property evaluation
       int sizeOfList = validProperties.size();
       String leftOvers = validProperties.get( sizeOfList - 1 );
-      validProperties.remove( sizeOfLife - 1 );
+      validProperties.remove( sizeOfList - 1 );
       
       //@@DEBUG
       SOPln("\nProperties Found:");
